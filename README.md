@@ -1,0 +1,1 @@
+# smart system simple architecture 
